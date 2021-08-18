@@ -1,0 +1,4 @@
+.mono
+.import
+.*.log
+node_modules
